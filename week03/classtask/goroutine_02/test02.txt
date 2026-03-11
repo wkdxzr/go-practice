@@ -1,0 +1,6 @@
+Go 语言的 goroutine 很轻量
+go 并发，go 高效，go 简单
+hello 只出现一次
+测试空行：
+
+重复单词测试：go go go

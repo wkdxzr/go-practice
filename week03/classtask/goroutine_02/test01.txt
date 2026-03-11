@@ -1,0 +1,6 @@
+hello world! hello go
+并发编程很有趣，go go go
+hello 123hello456hello
+（空行）
+
+hello，这是带标点的hello
